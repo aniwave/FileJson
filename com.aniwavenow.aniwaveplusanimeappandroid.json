@@ -1,358 +1,350 @@
 {
-  "ads": {
-    "settings": {
-      "interval_interstitial": 3,
-      "interstitial_type" : "lap",
-      "switch_ads_type": "only_banner",
-      "make_app_crash_when_app_not_live_at_play_store": false,
-      "make_app_under_maintenance": false
+    "ads": {
+        "settings": {
+            "interval_interstitial": 3,
+            "interstitial_type": "lap",
+            "switch_ads_type": "only_banner",
+            "make_app_crash_when_app_not_live_at_play_store": false,
+            "make_app_under_maintenance": false
+        },
+        "ad_network": [
+            {
+                "name": "off",
+                "value": 1,
+                "min_time": 120,
+                "appId_appKey_publisherId_gameId": "-",
+                "banner": "-",
+                "mrec": "off",
+                "inter": "-",
+                "native_ad": "-",
+                "open_ad": "off",
+                "splash_ad": false
+            }
+        ]
     },
-
-    "ad_network": [
-      {
-        "name": "off",
-        "value": 1,
-		"min_time": 120,
-
-        "appId_appKey_publisherId_gameId": "-",
-        "banner": "-",
-        "mrec": "off",
-        "inter": "-",
-        "native_ad": "-",
-        "open_ad": "off",
-        "splash_ad": false
-      }
+    "app_settings": {
+        "navigation_mode": "navigation_drawer",
+        "recent_fragment_list_view_mode": "grid",
+        "favorite_fragment_list_view_mode": "grid",
+        "category_fragment_list_view_mode": "grid",
+        "category_activity_list_view_mode": "grid",
+        "hide_short_desc_category_activity_list": false,
+        "item_interval_native_ad_list": 4,
+        "enable_banner_ads": true,
+        "enable_category": true,
+        "enable_more_app": false
+    },
+    "More": [
+        {
+            "id": 1,
+            "title": "IQ Test vs The Moron Test",
+            "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+        },
+        {
+            "id": 2,
+            "title": "Skins Editor for Minecraft PE",
+            "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+        }
+    ],
+    "Categories": [
+        {
+            "id": 1,
+            "name_category": "Playstore",
+            "image": "file:///android_asset/image/image1.png"
+        },
+        {
+            "id": 2,
+            "name_category": "Tutorial",
+            "image": "file:///android_asset/image/image2.webp"
+        },
+        {
+            "id": 3,
+            "name_category": "Reskin",
+            "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+        }
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "name_category": "Anime Recommendations",
+            "title": "Top 10 Anime Series of All Time",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Discover the top 10 anime series that have left an indelible mark on the world of animation.",
+            "link": "<p>Prepare to embark on a journey through the finest anime series ever created. In this article, we unveil the top 10 anime series of all time, each a masterpiece that has left an indelible mark on the world of animation.</p><p>From epic adventures to heartwarming stories, these anime series have captivated audiences worldwide. Join us as we delve into the rich storytelling, exceptional animation, and unforgettable characters that define these timeless classics.</p><p>Whether you're a long-time anime enthusiast or new to the medium, this list offers a selection of anime that transcends generations and genres. Don't miss the opportunity to experience these extraordinary series.</p>"
+        },
+        {
+            "id": 2,
+            "name_category": "Anime Recommendations",
+            "title": "Anime for Beginners: Where to Start",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "New to anime? Discover the perfect starting point with our list of beginner-friendly series.",
+            "link": "<p>If you're new to the world of anime and wondering where to start, you're in the right place. In this article, we provide a curated list of anime series that are perfect for beginners.</p><p>Explore the diverse genres and captivating stories that await you in the world of anime. Whether you're interested in action, romance, or fantasy, there's an anime on this list that will pique your interest.</p><p>Join us as we guide you through the exciting journey of discovering anime. These beginner-friendly series will introduce you to the medium and its unique storytelling in the best possible way.</p>"
+        },
+        {
+            "id": 3,
+            "name_category": "Anime History",
+            "title": "The Birth of Anime: Pioneers and Innovators",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Learn about the pioneers and innovators who shaped the early days of anime.",
+            "link": "<p>Step back in time and explore the fascinating history of anime's early days. In this article, we pay tribute to the pioneers and innovators who shaped the foundation of this beloved medium.</p><p>Discover the groundbreaking works and creative minds that paved the way for the anime industry. From Osamu Tezuka's influential contributions to the evolution of animation techniques, there's a rich history waiting to be uncovered.</p><p>Whether you're a history buff or simply curious about the origins of anime, this article offers a glimpse into the remarkable individuals and milestones that defined the birth of anime.</p>"
+        },
+        {
+            "id": 4,
+            "name_category": "Anime Reviews",
+            "title": "In-Depth Review: 'Your Name'",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Dive into an in-depth review of the critically acclaimed anime film 'Your Name' and discover its profound themes.",
+            "link": "<p>Join us for an in-depth review of the anime film sensation 'Your Name.' Dive into the captivating storyline, breathtaking animation, and the profound themes that have touched the hearts of audiences worldwide.</p><p>We explore the magic of body-swapping, the significance of red ribbons, and the powerful connection between Taki and Mitsuha. This review delves into the intricate details and emotional depth of 'Your Name.'</p><p>Whether you've seen the film before or are new to its enchanting world, this review offers fresh insights and a deeper appreciation for this cinematic masterpiece.</p>"
+        },
+        {
+            "id": 5,
+            "name_category": "Anime Recommendations",
+            "title": "Must-Watch Anime Movies: A Cinematic Journey",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Embark on a cinematic journey with our list of must-watch anime movies that showcase the medium's versatility.",
+            "link": "<p>If you're a fan of both anime and cinema, this article is tailor-made for you. Join us on a cinematic journey as we explore a curated list of must-watch anime movies that showcase the medium's versatility and storytelling prowess.</p><p>From visually stunning works like 'Spirited Away' to emotionally resonant films like 'Grave of the Fireflies,' there's a movie for every taste on this list. We delve into the unique qualities that make each film a masterpiece in its own right.</p><p>Whether you're seeking epic adventures, heartwarming tales, or thought-provoking narratives, these anime movies offer an unforgettable cinematic experience.</p>"
+        },
+        {
+            "id": 6,
+            "name_category": "Anime Culture",
+            "title": "Exploring Cosplay: From Costume to Culture",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Delve into the vibrant world of cosplay, where costumes, creativity, and culture collide.",
+            "link": "<p>Cosplay is more than just dressing up; it's a vibrant subculture that celebrates creativity, passion, and fandom. In this article, we take a deep dive into the world of cosplay, exploring its origins, evolution, and cultural significance.</p><p>Discover the artistry and craftsmanship behind cosplay costumes, meet dedicated cosplayers, and gain insight into the transformative power of this unique hobby. From conventions to photo shoots, we explore the diverse facets of the cosplay community.</p><p>Whether you're a seasoned cosplayer or simply curious about this colorful world, this article offers a glimpse into the passion and dedication that make cosplay a thriving global phenomenon.</p>"
+        },
+        {
+            "id": 7,
+            "name_category": "Anime Reviews",
+            "title": "Anime Series Spotlight: 'Attack on Titan'",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Dive deep into the world of 'Attack on Titan' with our comprehensive review of this groundbreaking anime series.",
+            "link": "<p>Prepare to embark on an epic journey beyond the walls with our comprehensive review of the anime series 'Attack on Titan.' Dive deep into the world of humanity's struggle for survival against the enigmatic Titans.</p><p>We explore the complex characters, political intrigue, and jaw-dropping action sequences that have made 'Attack on Titan' a worldwide phenomenon. From Eren Yeager's relentless determination to the mysteries of the Titans, this review covers it all.</p><p>Whether you're a devoted fan or new to the series, this spotlight on 'Attack on Titan' offers fresh perspectives and insights into the dark and thrilling world of the Titans.</p>"
+        },
+        {
+            "id": 8,
+            "name_category": "Anime Recommendations",
+            "title": "Hidden Gems: Underrated Anime Series to Discover",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Unearth hidden gems in the world of anime with our recommendations for underrated series.",
+            "link": "<p>Are you tired of the same old mainstream anime recommendations? It's time to unearth some hidden gems. In this article, we shine a spotlight on underrated anime series that deserve your attention.</p><p>From overlooked classics to hidden treasures, we introduce you to anime that may have slipped under your radar. These series offer unique stories, memorable characters, and experiences you won't forget.</p><p>Join us in the quest for hidden gems, and expand your anime watchlist with these underrated treasures waiting to be discovered.</p>"
+        },
+        {
+            "id": 9,
+            "name_category": "Anime Culture",
+            "title": "The Art of Anime Music: Composers and Soundtracks",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Explore the magic of anime music and the talented composers behind the iconic soundtracks.",
+            "link": "<p>One of the most enchanting aspects of anime is its music. Dive into the world of anime soundtracks and the talented composers who bring these melodies to life. In this article, we explore the magic of anime music.</p><p>Discover the iconic tracks that have become synonymous with your favorite series and the composers who crafted them. From the haunting melodies of 'Attack on Titan' to the uplifting tunes of 'My Neighbor Totoro,' we cover it all.</p><p>Whether you're a music enthusiast or simply appreciate the role of soundtracks in storytelling, this article offers a melodious journey through the art of anime music.</p>"
+        },
+        {
+            "id": 10,
+            "name_category": "Anime Reviews",
+            "title": "Masterpiece Revisited: 'Neon Genesis Evangelion'",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Revisit the iconic 'Neon Genesis Evangelion' and explore its enduring impact on anime and pop culture.",
+            "link": "<p>It's time to revisit a true masterpiece of anime: 'Neon Genesis Evangelion.' In this retrospective review, we delve into the groundbreaking series that redefined the mecha genre and left an indelible mark on anime and pop culture.</p><p>Explore the complex characters, psychological depth, and philosophical themes that make 'Neon Genesis Evangelion' a timeless classic. From Shinji Ikari's inner struggles to the enigmatic nature of the Angels, there's much to uncover.</p><p>Whether you're a longtime fan or new to this iconic series, join us in rediscovering the brilliance and enduring impact of 'Neon Genesis Evangelion.'</p>"
+        },
+        {
+            "id": 11,
+            "name_category": "Anime Recommendations",
+            "title": "Fantasy Worlds and Epic Quests: A Guide to Isekai Anime",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Embark on epic adventures in fantastical worlds with our guide to Isekai anime.",
+            "link": "<p>If you're a fan of epic adventures, fantastical worlds, and the concept of being transported to another realm, then Isekai anime is the genre for you. In this guide, we explore the exciting world of Isekai and recommend must-watch series that will take you on unforgettable journeys.</p><p>From 'Sword Art Online' to 'Re:Zero,' we dive into the diverse subgenres within Isekai and the unique twists they bring to the table. Join us in discovering the charm and excitement of these parallel worlds.</p><p>Whether you're a seasoned Isekai enthusiast or new to the genre, this guide will lead you to extraordinary adventures and unexpected discoveries.</p>"
+        },
+        {
+            "id": 12,
+            "name_category": "Anime Culture",
+            "title": "Manga to Anime: Adaptation and Evolution",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Explore the fascinating journey of manga to anime adaptation and the impact on the industry.",
+            "link": "<p>The journey from manga to anime is a fascinating one, marked by creativity, challenges, and the evolution of storytelling. In this article, we explore the process of adapting manga into anime and the profound impact it has had on the industry.</p><p>Discover the art of adaptation, from faithfully recreating manga panels to making creative changes for the animated medium. We delve into the successes and challenges of bringing beloved manga series to life on the screen.</p><p>Whether you're a manga enthusiast, an anime fan, or simply curious about the adaptation process, this article offers insights into the intricate world of manga to anime.</p>"
+        },
+        {
+            "id": 13,
+            "name_category": "Anime Reviews",
+            "title": "Anime Film Spotlight: 'Princess Mononoke'",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Journey into the enchanting forest of 'Princess Mononoke' with our spotlight on this Studio Ghibli classic.",
+            "link": "<p>Step into the mystical forest and explore the world of 'Princess Mononoke' with our spotlight on this Studio Ghibli classic. Dive into the lush landscapes, complex characters, and environmental themes that define this timeless anime film.</p><p>We discuss the clash between industry and nature, the enigmatic Forest Spirit, and the fearless Princess Mononoke herself. This spotlight offers a deeper understanding of the film's ecological message and artistic brilliance.</p><p>Whether you're a Ghibli aficionado or new to this enchanting world, join us in the journey through the forest of 'Princess Mononoke.'</p>"
+        },
+        {
+            "id": 14,
+            "name_category": "Anime Recommendations",
+            "title": "Romance and Relationships in Anime: Love Beyond Boundaries",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Explore the diverse world of romance and relationships in anime, where love knows no boundaries.",
+            "link": "<p>Love takes many forms in the world of anime, transcending boundaries of time, space, and even reality. In this article, we explore the diverse landscape of romance and relationships in anime, from classic love stories to unconventional pairings.</p><p>Join us in celebrating the power of love, whether it's a high school romance, a supernatural connection, or a love that defies the laws of physics. These anime recommendations showcase the depth and complexity of human emotions.</p><p>Whether you're a hopeless romantic or simply intrigued by the myriad ways love is portrayed in anime, this article offers a journey through the heartwarming and heart-wrenching aspects of love in animation.</p>"
+        },
+        {
+            "id": 15,
+            "name_category": "Anime Culture",
+            "title": "The Impact of Studio Ghibli: Artistry and Imagination",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Discover the enduring impact of Studio Ghibli on animation and storytelling worldwide.",
+            "link": "<p>Studio Ghibli is a name synonymous with artistic excellence and imaginative storytelling. In this article, we explore the profound impact of Studio Ghibli on animation and storytelling worldwide.</p><p>From the enchanting worlds of 'Spirited Away' to the ecological messages of 'Nausicaä of the Valley of the Wind,' we delve into the studio's rich catalog of films and the themes that define them.</p><p>Whether you're a longtime Ghibli fan or new to their magical creations, this article offers a journey through the artistry and imagination that continue to inspire generations of viewers.</p>"
+        },
+        {
+            "id": 16,
+            "name_category": "Anime Reviews",
+            "title": "Classic Anime Revisited: 'Cowboy Bebop'",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Embark on a journey through space and jazz with our revisit of the iconic anime series 'Cowboy Bebop.'",
+            "link": "<p>Get ready to embark on a spacefaring adventure like no other with our revisit of the iconic anime series 'Cowboy Bebop.' Join Spike, Faye, and the rest of the Bebop crew as they chase bounties and confront their pasts in a jazz-infused, intergalactic journey.</p><p>We explore the series' unique blend of genres, memorable characters, and timeless music that make 'Cowboy Bebop' a classic in the world of anime. From the enigmatic Spike Spiegel to the bluesy notes of Yoko Kanno's soundtrack, there's much to savor.</p><p>Whether you're a longtime fan or new to the Bebop experience, this revisit offers a fresh perspective on the enduring appeal of 'Cowboy Bebop.'</p>"
+        },
+        {
+            "id": 17,
+            "name_category": "Anime Recommendations",
+            "title": "Magical Worlds and Wondrous Adventures: Fantasy Anime Guide",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Embark on magical journeys and explore wondrous worlds with our guide to fantasy anime.",
+            "link": "<p>If you're a fan of magic, mythical creatures, and epic adventures, then fantasy anime is your ticket to enchanted realms. In this guide, we invite you to embark on magical journeys and explore wondrous worlds with our recommendations for fantasy anime series.</p><p>From the spellbinding spells of 'Magi: The Labyrinth of Magic' to the whimsical world of 'Made in Abyss,' we dive into the enchanting subgenres within fantasy anime. Join us in discovering the beauty of these fantastical tales.</p><p>Whether you're a fantasy enthusiast or new to the genre, this guide will lead you to magical worlds and wondrous adventures that await in the realm of anime.</p>"
+        },
+        {
+            "id": 18,
+            "name_category": "Anime Culture",
+            "title": "The Art of Studio Ghibli: Visual Excellence and Storytelling Mastery",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Explore the visual excellence and storytelling mastery of Studio Ghibli's animated films.",
+            "link": "<p>Studio Ghibli is renowned for its visual excellence and storytelling mastery. In this article, we take a deep dive into the artistry of Studio Ghibli's animated films, from the stunning landscapes to the beloved characters that have captured our hearts.</p><p>Discover the meticulous attention to detail, the hand-drawn animation techniques, and the themes that resonate across generations. From the whimsical adventures of 'My Neighbor Totoro' to the environmental messages of 'Princess Mononoke,' there's a world of artistry to explore.</p><p>Whether you're an animation connoisseur or simply appreciate the beauty of storytelling through art, this article offers a visual feast of Studio Ghibli's cinematic treasures.</p>"
+        },
+        {
+            "id": 19,
+            "name_category": "Anime Reviews",
+            "title": "Emotional Impact: 'Clannad' and the Power of Family",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Experience the emotional journey of 'Clannad' and its profound exploration of family bonds.",
+            "link": "<p>Prepare for an emotional rollercoaster as we explore the heartfelt journey of 'Clannad' and its profound exploration of family bonds. In this review, we delve into the touching story of Tomoya Okazaki and Nagisa Furukawa and the impact they've had on anime fans worldwide.</p><p>Discover the power of family, friendship, and love as we navigate the ups and downs of life in this unforgettable series. From the tears to the laughter, 'Clannad' leaves an indelible mark on the heart.</p><p>Whether you're a seasoned anime viewer or new to the world of 'Clannad,' this review offers a heartfelt look at the emotional impact of this beloved series.</p>"
+        },
+        {
+            "id": 20,
+            "name_category": "Anime Recommendations",
+            "title": "Supernatural Mysteries Unveiled: A Guide to Supernatural Anime",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Unveil supernatural mysteries with our guide to anime that delves into the paranormal and unexplained.",
+            "link": "<p>Are you intrigued by the supernatural, the paranormal, and the unexplained? If so, you're in for a treat. In this guide, we unveil supernatural mysteries with our recommendations for anime series that delve into the world of ghosts, spirits, and supernatural phenomena.</p><p>From the chilling investigations of 'Ghost Hunt' to the whimsical adventures of 'Natsume's Book of Friends,' we explore the diverse facets of supernatural anime. Join us in uncovering the mysteries that lurk in the shadows.</p><p>Whether you're a paranormal enthusiast or new to the genre, this guide will lead you to eerie encounters and otherworldly experiences that await in the realm of anime.</p>"
+        },
+        {
+            "id": 21,
+            "name_category": "Anime Culture",
+            "title": "Anime and Technology: From Cel Animation to Digital Artistry",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Trace the evolution of anime artistry and technology from cel animation to digital innovation.",
+            "link": "<p>The world of anime has undergone a remarkable transformation in terms of artistry and technology. In this article, we trace the evolution of anime from its origins in cel animation to the digital innovations that shape it today.</p><p>Discover the impact of technological advancements on animation quality, visual effects, and storytelling techniques. From hand-painted cels to 3D animation, we explore the milestones that have defined anime's artistic journey.</p><p>Whether you're an animation enthusiast or simply curious about the intersection of art and technology in anime, this article offers a fascinating glimpse into the medium's evolution.</p>"
+        },
+        {
+            "id": 22,
+            "name_category": "Anime Reviews",
+            "title": "Legendary Swordsmen: 'Rurouni Kenshin' Anime Review",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Explore the world of legendary swordsmen with our review of the 'Rurouni Kenshin' anime series.",
+            "link": "<p>Step into the Meiji era and explore the world of legendary swordsmen with our review of the 'Rurouni Kenshin' anime series. Join Kenshin Himura, a wandering samurai with a dark past, on his quest for redemption and justice.</p><p>We delve into the captivating sword fights, memorable characters, and historical backdrop that make 'Rurouni Kenshin' a beloved classic. From the enigmatic Battosai to the spirited Kaoru Kamiya, there's much to discover in this timeless tale.</p><p>Whether you're a longtime fan or new to the adventures of Kenshin, this review offers a sword-clashing journey through the world of the legendary Battosai.</p>"
+        },
+        {
+            "id": 23,
+            "name_category": "Anime Recommendations",
+            "title": "Slice of Life Anime: A Journey Through Everyday Stories",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Embark on a journey through everyday life with our recommendations for slice of life anime series.",
+            "link": "<p>Life is full of ordinary moments that are anything but ordinary. In this article, we invite you to embark on a journey through everyday life with our recommendations for slice of life anime series that capture the beauty of the mundane and the warmth of human connections.</p><p>From the heartwarming stories of 'Barakamon' to the comedic escapades of 'Nichijou,' we explore the diverse facets of slice of life anime. Join us in savoring the simple joys and profound moments of these everyday tales.</p><p>Whether you're seeking relatable stories or a break from high-stakes adventures, slice of life anime offers a refreshing and heartwarming experience.</p>"
+        },
+        {
+            "id": 24,
+            "name_category": "Anime Culture",
+            "title": "The Influence of Japanese Folklore: Myths and Legends in Anime",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Discover the rich tapestry of Japanese folklore and mythology woven into the narratives of anime.",
+            "link": "<p>Japanese folklore and mythology are rich sources of inspiration for anime creators. In this article, we dive deep into the world of yokai, kami, and legendary creatures, exploring how these myths and legends influence the narratives and themes of anime.</p><p>From the shape-shifting kitsune to the enigmatic Tengu, we unravel the threads of Japanese folklore that are interwoven with anime storytelling. Join us in discovering the cultural significance and timeless appeal of these mythical beings.</p><p>Whether you're a folklore enthusiast or simply curious about the roots of anime, this article offers a journey through the mystical and supernatural aspects of Japanese culture.</p>"
+        },
+        {
+            "id": 25,
+            "name_category": "Anime Reviews",
+            "title": "A Sci-Fi Epic: 'Steins;Gate' Anime Review",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Dive into the world of time travel and conspiracy with our review of the sci-fi epic 'Steins;Gate.'",
+            "link": "<p>Prepare for a mind-bending journey through time and conspiracy with our review of the sci-fi epic 'Steins;Gate.' Join Rintarou Okabe and his friends as they stumble upon a discovery that could change the course of history.</p><p>We explore the intricate plot, memorable characters, and the consequences of tampering with time in this review. From the eccentric mad scientist to the mysterious Organization, there's much to unravel in this thrilling series.</p><p>Whether you're a fan of science fiction or time travel, 'Steins;Gate' offers a captivating and intellectually stimulating experience.</p>"
+        },
+        {
+            "id": 26,
+            "name_category": "Anime Recommendations",
+            "title": "Laugh Out Loud: A Guide to Comedy Anime",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Get ready to laugh out loud with our guide to comedy anime series that will tickle your funny bone.",
+            "link": "<p>Laughter is universal, and comedy anime aims to bring joy and mirth to viewers of all ages. In this guide, we introduce you to comedy anime series that are guaranteed to make you laugh out loud and brighten your day.</p><p>From the hilarious misadventures of 'Gintama' to the quirky comedy of 'The Devil is a Part-Timer!,' we explore the diverse humor found in anime. Join us in discovering the charm of these lighthearted series.</p><p>Whether you're in need of a good laugh or simply want to lift your spirits, comedy anime offers a delightful and entertaining experience.</p>"
+        },
+        {
+            "id": 27,
+            "name_category": "Anime Culture",
+            "title": "Anime and Technology: A Symbiotic Relationship",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Explore the symbiotic relationship between anime and technology, from digital animation to streaming platforms.",
+            "link": "<p>Technology has played a pivotal role in shaping the world of anime. In this article, we explore the symbiotic relationship between anime and technology, from the transition to digital animation to the rise of streaming platforms.</p><p>Discover how technological advancements have influenced animation quality, distribution, and fan engagement. From the evolution of animation software to the convenience of streaming services, we delve into the ways technology has transformed the anime industry.</p><p>Whether you're a tech enthusiast or an anime lover, this article offers insights into the dynamic interaction between art and innovation in the world of anime.</p>"
+        },
+        {
+            "id": 28,
+            "name_category": "Anime Reviews",
+            "title": "A Tale of Friendship: 'One Piece' Anime Review",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Set sail for adventure with our review of the long-running and beloved anime series 'One Piece.'",
+            "link": "<p>Join us on a journey to the Grand Line with our review of the long-running and beloved anime series 'One Piece.' Set sail with Monkey D. Luffy and his crew as they search for the ultimate treasure, the One Piece.</p><p>We explore the epic adventures, memorable characters, and themes of friendship and freedom that define 'One Piece.' From the enigmatic powers of Devil Fruits to the mysteries of the Void Century, there's much to discover in this vast world.</p><p>Whether you're a seasoned pirate or new to the Straw Hat crew, 'One Piece' offers an unforgettable adventure that spans the high seas and beyond.</p>"
+        },
+        {
+            "id": 29,
+            "name_category": "Anime Recommendations",
+            "title": "Magical Girls and Heroines: A Guide to Mahou Shoujo Anime",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Celebrate girl power with our guide to Mahou Shoujo anime series featuring magical girls and heroines.",
+            "link": "<p>Girl power takes center stage in Mahou Shoujo anime, where magical girls and heroines fight for justice and protect the world from evil. In this guide, we celebrate the strength and resilience of these iconic characters with recommendations for Mahou Shoujo series that inspire and empower.</p><p>From the timeless classic 'Sailor Moon' to the modern charm of 'Puella Magi Madoka Magica,' we explore the diverse stories within the genre. Join us in discovering the magical transformations, epic battles, and enduring themes of hope and friendship.</p><p>Whether you're a fan of magical girls or simply appreciate strong heroines, Mahou Shoujo anime offers a magical and empowering experience.</p>"
+        },
+        {
+            "id": 30,
+            "name_category": "Anime Culture",
+            "title": "The Art of Character Design in Anime: From Concept to Screen",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Explore the intricate process of character design in anime, from concept to the final animated form.",
+            "link": "<p>Character design is a crucial element of anime, influencing how characters look, move, and express themselves on screen. In this article, we explore the intricate process of character design, from the initial concept to the final animated form.</p><p>Discover the role of character designers, the importance of distinctive traits, and the evolution of iconic character designs in anime history. From the unique style of Studio Ghibli to the diversity of shonen and shoujo character archetypes, we delve into the art of bringing characters to life.</p><p>Whether you're an aspiring artist or simply curious about the artistry behind your favorite characters, this article offers a visual journey through the world of character design in anime.</p>"
+        },
+        {
+            "id": 31,
+            "name_category": "Anime Reviews",
+            "title": "A Sci-Fi Adventure: 'Cowboy Bebop' Anime Review",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Saddle up for a sci-fi adventure with our review of the classic anime series 'Cowboy Bebop.'",
+            "link": "<p>Get ready to saddle up and embark on a sci-fi adventure like no other with our review of the classic anime series 'Cowboy Bebop.' Join Spike, Faye, and the rest of the Bebop crew as they chase bounties and confront their pasts in a jazz-infused, intergalactic journey.</p><p>We explore the series' unique blend of genres, memorable characters, and timeless music that make 'Cowboy Bebop' a classic in the world of anime. From the enigmatic Spike Spiegel to the bluesy notes of Yoko Kanno's soundtrack, there's much to savor.</p><p>Whether you're a longtime fan or new to the Bebop experience, this review offers a fresh perspective on the enduring appeal of 'Cowboy Bebop.'</p>"
+        },
+        {
+            "id": 32,
+            "name_category": "Anime Recommendations",
+            "title": "Shonen Anime Adventures: A Guide to Action-Packed Series",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Embark on action-packed adventures with our guide to Shonen anime series filled with thrilling battles and epic quests.",
+            "link": "<p>If you crave adrenaline-pumping action, epic battles, and the thrill of adventure, then Shonen anime is your go-to genre. In this guide, we invite you to embark on action-packed adventures with our recommendations for Shonen series that deliver thrilling battles and epic quests.</p><p>From the boundless energy of 'Naruto' to the superheroic world of 'My Hero Academia,' we explore the diverse stories within Shonen anime. Join us in celebrating the determination, friendship, and growth of these iconic characters.</p><p>Whether you're a seasoned Shonen fan or new to the genre, this guide will lead you to action-packed journeys and battles that will leave you on the edge of your seat.</p>"
+        },
+        {
+            "id": 33,
+            "name_category": "Anime Culture",
+            "title": "The World of Mecha Anime: From Giant Robots to Human Machines",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Explore the fascinating world of mecha anime, where giant robots and human machines take center stage.",
+            "link": "<p>Mecha anime is a genre where technology, war, and the human spirit intersect, often featuring giant robots and human-piloted machines. In this article, we delve into the fascinating world of mecha anime, exploring the history, themes, and impact of this iconic genre.</p><p>Discover the evolution of mecha design, from the classic Mobile Suit Gundam to the cutting-edge technology of Neon Genesis Evangelion. We also explore the philosophical and moral questions raised by mecha anime, from the ethics of warfare to the nature of humanity.</p><p>Whether you're a mecha enthusiast or simply curious about the cultural significance of giant robots in anime, this article offers an insightful journey through the world of mecha anime.</p>"
+        },
+        {
+            "id": 34,
+            "name_category": "Anime Reviews",
+            "title": "A Tale of Friendship: 'One Piece' Anime Review",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Set sail for adventure with our review of the long-running and beloved anime series 'One Piece.'",
+            "link": "<p>Join us on a journey to the Grand Line with our review of the long-running and beloved anime series 'One Piece.' Set sail with Monkey D. Luffy and his crew as they search for the ultimate treasure, the One Piece.</p><p>We explore the epic adventures, memorable characters, and themes of friendship and freedom that define 'One Piece.' From the enigmatic powers of Devil Fruits to the mysteries of the Void Century, there's much to discover in this vast world.</p><p>Whether you're a seasoned pirate or new to the Straw Hat crew, 'One Piece' offers an unforgettable adventure that spans the high seas and beyond.</p>"
+        },
+        {
+            "id": 35,
+            "name_category": "Anime Culture",
+            "title": "Anime and Gaming: Exploring the Crossover Phenomenon",
+            "image": "file:///android_asset/image/aniwave.jpg",
+            "description": "Dive into the exciting crossover phenomenon between anime and gaming, from adaptations to collaborations.",
+            "link": "<p>The worlds of anime and gaming have long been intertwined, giving rise to a thrilling crossover phenomenon. In this article, we dive into the exciting relationship between anime and gaming, exploring adaptations, collaborations, and the impact of gaming culture on the anime industry.</p><p>Discover how beloved gaming franchises like 'Final Fantasy' and 'Persona' have made their mark in the world of anime. We also explore the reverse, with anime inspiring video games and the rise of virtual reality experiences.</p><p>Whether you're a gamer, an anime fan, or simply curious about the convergence of these two dynamic worlds, this article offers a journey through the crossover phenomenon that continues to shape both industries.</p>"
+        }
     ]
-  },
-
-  "app_settings" : {
-    "navigation_mode" : "navigation_drawer",
-
-    "recent_fragment_list_view_mode" : "grid",
-    "favorite_fragment_list_view_mode" : "grid",
-    "category_fragment_list_view_mode" : "grid",
-    "category_activity_list_view_mode" : "grid",
-    "hide_short_desc_category_activity_list" : false,
-    "item_interval_native_ad_list": 4,
-
-    "enable_banner_ads": true,
-    "enable_category": true,
-    "enable_more_app": false
-  },
-
-  "More": [
-    {
-      "id": 1,
-      "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
-    },
-    {
-      "id": 2,
-      "title": "Skins Editor for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
-    }
-  ],
-
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "Playstore",
-      "image": "file:///android_asset/image/image1.png"
-    },
-    {
-      "id": 2,
-      "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
-    },
-    {
-      "id": 3,
-      "name_category": "Reskin",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
-    }
-  ],
-
-  "Data": [
-   {
-    "id": 1,
-    "name_category": "Anime Recommendations",
-    "title": "Top 10 Anime Series of All Time",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Discover the top 10 anime series that have left an indelible mark on the world of animation.",
-    "link": "<p>Prepare to embark on a journey through the finest anime series ever created. In this article, we unveil the top 10 anime series of all time, each a masterpiece that has left an indelible mark on the world of animation.</p><p>From epic adventures to heartwarming stories, these anime series have captivated audiences worldwide. Join us as we delve into the rich storytelling, exceptional animation, and unforgettable characters that define these timeless classics.</p><p>Whether you're a long-time anime enthusiast or new to the medium, this list offers a selection of anime that transcends generations and genres. Don't miss the opportunity to experience these extraordinary series.</p>"
-  },
-  {
-    "id": 2,
-    "name_category": "Anime Recommendations",
-    "title": "Anime for Beginners: Where to Start",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "New to anime? Discover the perfect starting point with our list of beginner-friendly series.",
-    "link": "<p>If you're new to the world of anime and wondering where to start, you're in the right place. In this article, we provide a curated list of anime series that are perfect for beginners.</p><p>Explore the diverse genres and captivating stories that await you in the world of anime. Whether you're interested in action, romance, or fantasy, there's an anime on this list that will pique your interest.</p><p>Join us as we guide you through the exciting journey of discovering anime. These beginner-friendly series will introduce you to the medium and its unique storytelling in the best possible way.</p>"
-  },
-  {
-    "id": 3,
-    "name_category": "Anime History",
-    "title": "The Birth of Anime: Pioneers and Innovators",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Learn about the pioneers and innovators who shaped the early days of anime.",
-    "link": "<p>Step back in time and explore the fascinating history of anime's early days. In this article, we pay tribute to the pioneers and innovators who shaped the foundation of this beloved medium.</p><p>Discover the groundbreaking works and creative minds that paved the way for the anime industry. From Osamu Tezuka's influential contributions to the evolution of animation techniques, there's a rich history waiting to be uncovered.</p><p>Whether you're a history buff or simply curious about the origins of anime, this article offers a glimpse into the remarkable individuals and milestones that defined the birth of anime.</p>"
-  },
-  {
-    "id": 4,
-    "name_category": "Anime Reviews",
-    "title": "In-Depth Review: 'Your Name'",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Dive into an in-depth review of the critically acclaimed anime film 'Your Name' and discover its profound themes.",
-    "link": "<p>Join us for an in-depth review of the anime film sensation 'Your Name.' Dive into the captivating storyline, breathtaking animation, and the profound themes that have touched the hearts of audiences worldwide.</p><p>We explore the magic of body-swapping, the significance of red ribbons, and the powerful connection between Taki and Mitsuha. This review delves into the intricate details and emotional depth of 'Your Name.'</p><p>Whether you've seen the film before or are new to its enchanting world, this review offers fresh insights and a deeper appreciation for this cinematic masterpiece.</p>"
-  },
-  {
-    "id": 5,
-    "name_category": "Anime Recommendations",
-    "title": "Must-Watch Anime Movies: A Cinematic Journey",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Embark on a cinematic journey with our list of must-watch anime movies that showcase the medium's versatility.",
-    "link": "<p>If you're a fan of both anime and cinema, this article is tailor-made for you. Join us on a cinematic journey as we explore a curated list of must-watch anime movies that showcase the medium's versatility and storytelling prowess.</p><p>From visually stunning works like 'Spirited Away' to emotionally resonant films like 'Grave of the Fireflies,' there's a movie for every taste on this list. We delve into the unique qualities that make each film a masterpiece in its own right.</p><p>Whether you're seeking epic adventures, heartwarming tales, or thought-provoking narratives, these anime movies offer an unforgettable cinematic experience.</p>"
-  },
-  {
-    "id": 6,
-    "name_category": "Anime Culture",
-    "title": "Exploring Cosplay: From Costume to Culture",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Delve into the vibrant world of cosplay, where costumes, creativity, and culture collide.",
-    "link": "<p>Cosplay is more than just dressing up; it's a vibrant subculture that celebrates creativity, passion, and fandom. In this article, we take a deep dive into the world of cosplay, exploring its origins, evolution, and cultural significance.</p><p>Discover the artistry and craftsmanship behind cosplay costumes, meet dedicated cosplayers, and gain insight into the transformative power of this unique hobby. From conventions to photo shoots, we explore the diverse facets of the cosplay community.</p><p>Whether you're a seasoned cosplayer or simply curious about this colorful world, this article offers a glimpse into the passion and dedication that make cosplay a thriving global phenomenon.</p>"
-  },
-  {
-    "id": 7,
-    "name_category": "Anime Reviews",
-    "title": "Anime Series Spotlight: 'Attack on Titan'",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Dive deep into the world of 'Attack on Titan' with our comprehensive review of this groundbreaking anime series.",
-    "link": "<p>Prepare to embark on an epic journey beyond the walls with our comprehensive review of the anime series 'Attack on Titan.' Dive deep into the world of humanity's struggle for survival against the enigmatic Titans.</p><p>We explore the complex characters, political intrigue, and jaw-dropping action sequences that have made 'Attack on Titan' a worldwide phenomenon. From Eren Yeager's relentless determination to the mysteries of the Titans, this review covers it all.</p><p>Whether you're a devoted fan or new to the series, this spotlight on 'Attack on Titan' offers fresh perspectives and insights into the dark and thrilling world of the Titans.</p>"
-  },
-  {
-    "id": 8,
-    "name_category": "Anime Recommendations",
-    "title": "Hidden Gems: Underrated Anime Series to Discover",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Unearth hidden gems in the world of anime with our recommendations for underrated series.",
-    "link": "<p>Are you tired of the same old mainstream anime recommendations? It's time to unearth some hidden gems. In this article, we shine a spotlight on underrated anime series that deserve your attention.</p><p>From overlooked classics to hidden treasures, we introduce you to anime that may have slipped under your radar. These series offer unique stories, memorable characters, and experiences you won't forget.</p><p>Join us in the quest for hidden gems, and expand your anime watchlist with these underrated treasures waiting to be discovered.</p>"
-  },
-  {
-    "id": 9,
-    "name_category": "Anime Culture",
-    "title": "The Art of Anime Music: Composers and Soundtracks",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Explore the magic of anime music and the talented composers behind the iconic soundtracks.",
-    "link": "<p>One of the most enchanting aspects of anime is its music. Dive into the world of anime soundtracks and the talented composers who bring these melodies to life. In this article, we explore the magic of anime music.</p><p>Discover the iconic tracks that have become synonymous with your favorite series and the composers who crafted them. From the haunting melodies of 'Attack on Titan' to the uplifting tunes of 'My Neighbor Totoro,' we cover it all.</p><p>Whether you're a music enthusiast or simply appreciate the role of soundtracks in storytelling, this article offers a melodious journey through the art of anime music.</p>"
-  },
-  {
-    "id": 10,
-    "name_category": "Anime Reviews",
-    "title": "Masterpiece Revisited: 'Neon Genesis Evangelion'",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Revisit the iconic 'Neon Genesis Evangelion' and explore its enduring impact on anime and pop culture.",
-    "link": "<p>It's time to revisit a true masterpiece of anime: 'Neon Genesis Evangelion.' In this retrospective review, we delve into the groundbreaking series that redefined the mecha genre and left an indelible mark on anime and pop culture.</p><p>Explore the complex characters, psychological depth, and philosophical themes that make 'Neon Genesis Evangelion' a timeless classic. From Shinji Ikari's inner struggles to the enigmatic nature of the Angels, there's much to uncover.</p><p>Whether you're a longtime fan or new to this iconic series, join us in rediscovering the brilliance and enduring impact of 'Neon Genesis Evangelion.'</p>"
-  },
-  {
-    "id": 11,
-    "name_category": "Anime Recommendations",
-    "title": "Fantasy Worlds and Epic Quests: A Guide to Isekai Anime",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Embark on epic adventures in fantastical worlds with our guide to Isekai anime.",
-    "link": "<p>If you're a fan of epic adventures, fantastical worlds, and the concept of being transported to another realm, then Isekai anime is the genre for you. In this guide, we explore the exciting world of Isekai and recommend must-watch series that will take you on unforgettable journeys.</p><p>From 'Sword Art Online' to 'Re:Zero,' we dive into the diverse subgenres within Isekai and the unique twists they bring to the table. Join us in discovering the charm and excitement of these parallel worlds.</p><p>Whether you're a seasoned Isekai enthusiast or new to the genre, this guide will lead you to extraordinary adventures and unexpected discoveries.</p>"
-  },
-  {
-    "id": 12,
-    "name_category": "Anime Culture",
-    "title": "Manga to Anime: Adaptation and Evolution",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Explore the fascinating journey of manga to anime adaptation and the impact on the industry.",
-    "link": "<p>The journey from manga to anime is a fascinating one, marked by creativity, challenges, and the evolution of storytelling. In this article, we explore the process of adapting manga into anime and the profound impact it has had on the industry.</p><p>Discover the art of adaptation, from faithfully recreating manga panels to making creative changes for the animated medium. We delve into the successes and challenges of bringing beloved manga series to life on the screen.</p><p>Whether you're a manga enthusiast, an anime fan, or simply curious about the adaptation process, this article offers insights into the intricate world of manga to anime.</p>"
-  },
-  {
-    "id": 13,
-    "name_category": "Anime Reviews",
-    "title": "Anime Film Spotlight: 'Princess Mononoke'",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Journey into the enchanting forest of 'Princess Mononoke' with our spotlight on this Studio Ghibli classic.",
-    "link": "<p>Step into the mystical forest and explore the world of 'Princess Mononoke' with our spotlight on this Studio Ghibli classic. Dive into the lush landscapes, complex characters, and environmental themes that define this timeless anime film.</p><p>We discuss the clash between industry and nature, the enigmatic Forest Spirit, and the fearless Princess Mononoke herself. This spotlight offers a deeper understanding of the film's ecological message and artistic brilliance.</p><p>Whether you're a Ghibli aficionado or new to this enchanting world, join us in the journey through the forest of 'Princess Mononoke.'</p>"
-  },
-  {
-    "id": 14,
-    "name_category": "Anime Recommendations",
-    "title": "Romance and Relationships in Anime: Love Beyond Boundaries",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Explore the diverse world of romance and relationships in anime, where love knows no boundaries.",
-    "link": "<p>Love takes many forms in the world of anime, transcending boundaries of time, space, and even reality. In this article, we explore the diverse landscape of romance and relationships in anime, from classic love stories to unconventional pairings.</p><p>Join us in celebrating the power of love, whether it's a high school romance, a supernatural connection, or a love that defies the laws of physics. These anime recommendations showcase the depth and complexity of human emotions.</p><p>Whether you're a hopeless romantic or simply intrigued by the myriad ways love is portrayed in anime, this article offers a journey through the heartwarming and heart-wrenching aspects of love in animation.</p>"
-  },
-  {
-    "id": 15,
-    "name_category": "Anime Culture",
-    "title": "The Impact of Studio Ghibli: Artistry and Imagination",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Discover the enduring impact of Studio Ghibli on animation and storytelling worldwide.",
-    "link": "<p>Studio Ghibli is a name synonymous with artistic excellence and imaginative storytelling. In this article, we explore the profound impact of Studio Ghibli on animation and storytelling worldwide.</p><p>From the enchanting worlds of 'Spirited Away' to the ecological messages of 'Nausicaä of the Valley of the Wind,' we delve into the studio's rich catalog of films and the themes that define them.</p><p>Whether you're a longtime Ghibli fan or new to their magical creations, this article offers a journey through the artistry and imagination that continue to inspire generations of viewers.</p>"
-  },
-  {
-    "id": 16,
-    "name_category": "Anime Reviews",
-    "title": "Classic Anime Revisited: 'Cowboy Bebop'",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Embark on a journey through space and jazz with our revisit of the iconic anime series 'Cowboy Bebop.'",
-    "link": "<p>Get ready to embark on a spacefaring adventure like no other with our revisit of the iconic anime series 'Cowboy Bebop.' Join Spike, Faye, and the rest of the Bebop crew as they chase bounties and confront their pasts in a jazz-infused, intergalactic journey.</p><p>We explore the series' unique blend of genres, memorable characters, and timeless music that make 'Cowboy Bebop' a classic in the world of anime. From the enigmatic Spike Spiegel to the bluesy notes of Yoko Kanno's soundtrack, there's much to savor.</p><p>Whether you're a longtime fan or new to the Bebop experience, this revisit offers a fresh perspective on the enduring appeal of 'Cowboy Bebop.'</p>"
-  },
-  {
-    "id": 17,
-    "name_category": "Anime Recommendations",
-    "title": "Magical Worlds and Wondrous Adventures: Fantasy Anime Guide",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Embark on magical journeys and explore wondrous worlds with our guide to fantasy anime.",
-    "link": "<p>If you're a fan of magic, mythical creatures, and epic adventures, then fantasy anime is your ticket to enchanted realms. In this guide, we invite you to embark on magical journeys and explore wondrous worlds with our recommendations for fantasy anime series.</p><p>From the spellbinding spells of 'Magi: The Labyrinth of Magic' to the whimsical world of 'Made in Abyss,' we dive into the enchanting subgenres within fantasy anime. Join us in discovering the beauty of these fantastical tales.</p><p>Whether you're a fantasy enthusiast or new to the genre, this guide will lead you to magical worlds and wondrous adventures that await in the realm of anime.</p>"
-  },
-  {
-    "id": 18,
-    "name_category": "Anime Culture",
-    "title": "The Art of Studio Ghibli: Visual Excellence and Storytelling Mastery",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Explore the visual excellence and storytelling mastery of Studio Ghibli's animated films.",
-    "link": "<p>Studio Ghibli is renowned for its visual excellence and storytelling mastery. In this article, we take a deep dive into the artistry of Studio Ghibli's animated films, from the stunning landscapes to the beloved characters that have captured our hearts.</p><p>Discover the meticulous attention to detail, the hand-drawn animation techniques, and the themes that resonate across generations. From the whimsical adventures of 'My Neighbor Totoro' to the environmental messages of 'Princess Mononoke,' there's a world of artistry to explore.</p><p>Whether you're an animation connoisseur or simply appreciate the beauty of storytelling through art, this article offers a visual feast of Studio Ghibli's cinematic treasures.</p>"
-  },
-  {
-    "id": 19,
-    "name_category": "Anime Reviews",
-    "title": "Emotional Impact: 'Clannad' and the Power of Family",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Experience the emotional journey of 'Clannad' and its profound exploration of family bonds.",
-    "link": "<p>Prepare for an emotional rollercoaster as we explore the heartfelt journey of 'Clannad' and its profound exploration of family bonds. In this review, we delve into the touching story of Tomoya Okazaki and Nagisa Furukawa and the impact they've had on anime fans worldwide.</p><p>Discover the power of family, friendship, and love as we navigate the ups and downs of life in this unforgettable series. From the tears to the laughter, 'Clannad' leaves an indelible mark on the heart.</p><p>Whether you're a seasoned anime viewer or new to the world of 'Clannad,' this review offers a heartfelt look at the emotional impact of this beloved series.</p>"
-  },
-  {
-    "id": 20,
-    "name_category": "Anime Recommendations",
-    "title": "Supernatural Mysteries Unveiled: A Guide to Supernatural Anime",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Unveil supernatural mysteries with our guide to anime that delves into the paranormal and unexplained.",
-    "link": "<p>Are you intrigued by the supernatural, the paranormal, and the unexplained? If so, you're in for a treat. In this guide, we unveil supernatural mysteries with our recommendations for anime series that delve into the world of ghosts, spirits, and supernatural phenomena.</p><p>From the chilling investigations of 'Ghost Hunt' to the whimsical adventures of 'Natsume's Book of Friends,' we explore the diverse facets of supernatural anime. Join us in uncovering the mysteries that lurk in the shadows.</p><p>Whether you're a paranormal enthusiast or new to the genre, this guide will lead you to eerie encounters and otherworldly experiences that await in the realm of anime.</p>"
-  },
-  {
-    "id": 21,
-    "name_category": "Anime Culture",
-    "title": "Anime and Technology: From Cel Animation to Digital Artistry",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Trace the evolution of anime artistry and technology from cel animation to digital innovation.",
-    "link": "<p>The world of anime has undergone a remarkable transformation in terms of artistry and technology. In this article, we trace the evolution of anime from its origins in cel animation to the digital innovations that shape it today.</p><p>Discover the impact of technological advancements on animation quality, visual effects, and storytelling techniques. From hand-painted cels to 3D animation, we explore the milestones that have defined anime's artistic journey.</p><p>Whether you're an animation enthusiast or simply curious about the intersection of art and technology in anime, this article offers a fascinating glimpse into the medium's evolution.</p>"
-  },
-  {
-    "id": 22,
-    "name_category": "Anime Reviews",
-    "title": "Legendary Swordsmen: 'Rurouni Kenshin' Anime Review",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Explore the world of legendary swordsmen with our review of the 'Rurouni Kenshin' anime series.",
-    "link": "<p>Step into the Meiji era and explore the world of legendary swordsmen with our review of the 'Rurouni Kenshin' anime series. Join Kenshin Himura, a wandering samurai with a dark past, on his quest for redemption and justice.</p><p>We delve into the captivating sword fights, memorable characters, and historical backdrop that make 'Rurouni Kenshin' a beloved classic. From the enigmatic Battosai to the spirited Kaoru Kamiya, there's much to discover in this timeless tale.</p><p>Whether you're a longtime fan or new to the adventures of Kenshin, this review offers a sword-clashing journey through the world of the legendary Battosai.</p>"
-  },
-  {
-    "id": 23,
-    "name_category": "Anime Recommendations",
-    "title": "Slice of Life Anime: A Journey Through Everyday Stories",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Embark on a journey through everyday life with our recommendations for slice of life anime series.",
-    "link": "<p>Life is full of ordinary moments that are anything but ordinary. In this article, we invite you to embark on a journey through everyday life with our recommendations for slice of life anime series that capture the beauty of the mundane and the warmth of human connections.</p><p>From the heartwarming stories of 'Barakamon' to the comedic escapades of 'Nichijou,' we explore the diverse facets of slice of life anime. Join us in savoring the simple joys and profound moments of these everyday tales.</p><p>Whether you're seeking relatable stories or a break from high-stakes adventures, slice of life anime offers a refreshing and heartwarming experience.</p>"
-  },
-  {
-    "id": 24,
-    "name_category": "Anime Culture",
-    "title": "The Influence of Japanese Folklore: Myths and Legends in Anime",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Discover the rich tapestry of Japanese folklore and mythology woven into the narratives of anime.",
-    "link": "<p>Japanese folklore and mythology are rich sources of inspiration for anime creators. In this article, we dive deep into the world of yokai, kami, and legendary creatures, exploring how these myths and legends influence the narratives and themes of anime.</p><p>From the shape-shifting kitsune to the enigmatic Tengu, we unravel the threads of Japanese folklore that are interwoven with anime storytelling. Join us in discovering the cultural significance and timeless appeal of these mythical beings.</p><p>Whether you're a folklore enthusiast or simply curious about the roots of anime, this article offers a journey through the mystical and supernatural aspects of Japanese culture.</p>"
-  },
-  {
-    "id": 25,
-    "name_category": "Anime Reviews",
-    "title": "A Sci-Fi Epic: 'Steins;Gate' Anime Review",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Dive into the world of time travel and conspiracy with our review of the sci-fi epic 'Steins;Gate.'",
-    "link": "<p>Prepare for a mind-bending journey through time and conspiracy with our review of the sci-fi epic 'Steins;Gate.' Join Rintarou Okabe and his friends as they stumble upon a discovery that could change the course of history.</p><p>We explore the intricate plot, memorable characters, and the consequences of tampering with time in this review. From the eccentric mad scientist to the mysterious "Organization," there's much to unravel in this thrilling series.</p><p>Whether you're a fan of science fiction or time travel, 'Steins;Gate' offers a captivating and intellectually stimulating experience.</p>"
-  },
-  {
-    "id": 26,
-    "name_category": "Anime Recommendations",
-    "title": "Laugh Out Loud: A Guide to Comedy Anime",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Get ready to laugh out loud with our guide to comedy anime series that will tickle your funny bone.",
-    "link": "<p>Laughter is universal, and comedy anime aims to bring joy and mirth to viewers of all ages. In this guide, we introduce you to comedy anime series that are guaranteed to make you laugh out loud and brighten your day.</p><p>From the hilarious misadventures of 'Gintama' to the quirky comedy of 'The Devil is a Part-Timer!,' we explore the diverse humor found in anime. Join us in discovering the charm of these lighthearted series.</p><p>Whether you're in need of a good laugh or simply want to lift your spirits, comedy anime offers a delightful and entertaining experience.</p>"
-  },
-  {
-    "id": 27,
-    "name_category": "Anime Culture",
-    "title": "Anime and Technology: A Symbiotic Relationship",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Explore the symbiotic relationship between anime and technology, from digital animation to streaming platforms.",
-    "link": "<p>Technology has played a pivotal role in shaping the world of anime. In this article, we explore the symbiotic relationship between anime and technology, from the transition to digital animation to the rise of streaming platforms.</p><p>Discover how technological advancements have influenced animation quality, distribution, and fan engagement. From the evolution of animation software to the convenience of streaming services, we delve into the ways technology has transformed the anime industry.</p><p>Whether you're a tech enthusiast or an anime lover, this article offers insights into the dynamic interaction between art and innovation in the world of anime.</p>"
-  },
-  {
-    "id": 28,
-    "name_category": "Anime Reviews",
-    "title": "A Tale of Friendship: 'One Piece' Anime Review",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Set sail for adventure with our review of the long-running and beloved anime series 'One Piece.'",
-    "link": "<p>Join us on a journey to the Grand Line with our review of the long-running and beloved anime series 'One Piece.' Set sail with Monkey D. Luffy and his crew as they search for the ultimate treasure, the One Piece.</p><p>We explore the epic adventures, memorable characters, and themes of friendship and freedom that define 'One Piece.' From the enigmatic powers of Devil Fruits to the mysteries of the Void Century, there's much to discover in this vast world.</p><p>Whether you're a seasoned pirate or new to the Straw Hat crew, 'One Piece' offers an unforgettable adventure that spans the high seas and beyond.</p>"
-  },
-  {
-    "id": 29,
-    "name_category": "Anime Recommendations",
-    "title": "Magical Girls and Heroines: A Guide to Mahou Shoujo Anime",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Celebrate girl power with our guide to Mahou Shoujo anime series featuring magical girls and heroines.",
-    "link": "<p>Girl power takes center stage in Mahou Shoujo anime, where magical girls and heroines fight for justice and protect the world from evil. In this guide, we celebrate the strength and resilience of these iconic characters with recommendations for Mahou Shoujo series that inspire and empower.</p><p>From the timeless classic 'Sailor Moon' to the modern charm of 'Puella Magi Madoka Magica,' we explore the diverse stories within the genre. Join us in discovering the magical transformations, epic battles, and enduring themes of hope and friendship.</p><p>Whether you're a fan of magical girls or simply appreciate strong heroines, Mahou Shoujo anime offers a magical and empowering experience.</p>"
-  },
-  {
-    "id": 30,
-    "name_category": "Anime Culture",
-    "title": "The Art of Character Design in Anime: From Concept to Screen",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Explore the intricate process of character design in anime, from concept to the final animated form.",
-    "link": "<p>Character design is a crucial element of anime, influencing how characters look, move, and express themselves on screen. In this article, we explore the intricate process of character design, from the initial concept to the final animated form.</p><p>Discover the role of character designers, the importance of distinctive traits, and the evolution of iconic character designs in anime history. From the unique style of Studio Ghibli to the diversity of shonen and shoujo character archetypes, we delve into the art of bringing characters to life.</p><p>Whether you're an aspiring artist or simply curious about the artistry behind your favorite characters, this article offers a visual journey through the world of character design in anime.</p>"
-  },
-  {
-    "id": 31,
-    "name_category": "Anime Reviews",
-    "title": "A Sci-Fi Adventure: 'Cowboy Bebop' Anime Review",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Saddle up for a sci-fi adventure with our review of the classic anime series 'Cowboy Bebop.'",
-    "link": "<p>Get ready to saddle up and embark on a sci-fi adventure like no other with our review of the classic anime series 'Cowboy Bebop.' Join Spike, Faye, and the rest of the Bebop crew as they chase bounties and confront their pasts in a jazz-infused, intergalactic journey.</p><p>We explore the series' unique blend of genres, memorable characters, and timeless music that make 'Cowboy Bebop' a classic in the world of anime. From the enigmatic Spike Spiegel to the bluesy notes of Yoko Kanno's soundtrack, there's much to savor.</p><p>Whether you're a longtime fan or new to the Bebop experience, this review offers a fresh perspective on the enduring appeal of 'Cowboy Bebop.'</p>"
-  },
-  {
-    "id": 32,
-    "name_category": "Anime Recommendations",
-    "title": "Shonen Anime Adventures: A Guide to Action-Packed Series",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Embark on action-packed adventures with our guide to Shonen anime series filled with thrilling battles and epic quests.",
-    "link": "<p>If you crave adrenaline-pumping action, epic battles, and the thrill of adventure, then Shonen anime is your go-to genre. In this guide, we invite you to embark on action-packed adventures with our recommendations for Shonen series that deliver thrilling battles and epic quests.</p><p>From the boundless energy of 'Naruto' to the superheroic world of 'My Hero Academia,' we explore the diverse stories within Shonen anime. Join us in celebrating the determination, friendship, and growth of these iconic characters.</p><p>Whether you're a seasoned Shonen fan or new to the genre, this guide will lead you to action-packed journeys and battles that will leave you on the edge of your seat.</p>"
-  },
-  {
-    "id": 33,
-    "name_category": "Anime Culture",
-    "title": "The World of Mecha Anime: From Giant Robots to Human Machines",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Explore the fascinating world of mecha anime, where giant robots and human machines take center stage.",
-    "link": "<p>Mecha anime is a genre where technology, war, and the human spirit intersect, often featuring giant robots and human-piloted machines. In this article, we delve into the fascinating world of mecha anime, exploring the history, themes, and impact of this iconic genre.</p><p>Discover the evolution of mecha design, from the classic "Mobile Suit Gundam" to the cutting-edge technology of "Neon Genesis Evangelion." We also explore the philosophical and moral questions raised by mecha anime, from the ethics of warfare to the nature of humanity.</p><p>Whether you're a mecha enthusiast or simply curious about the cultural significance of giant robots in anime, this article offers an insightful journey through the world of mecha anime.</p>"
-  },
-  {
-    "id": 34,
-    "name_category": "Anime Reviews",
-    "title": "A Tale of Friendship: 'One Piece' Anime Review",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Set sail for adventure with our review of the long-running and beloved anime series 'One Piece.'",
-    "link": "<p>Join us on a journey to the Grand Line with our review of the long-running and beloved anime series 'One Piece.' Set sail with Monkey D. Luffy and his crew as they search for the ultimate treasure, the One Piece.</p><p>We explore the epic adventures, memorable characters, and themes of friendship and freedom that define 'One Piece.' From the enigmatic powers of Devil Fruits to the mysteries of the Void Century, there's much to discover in this vast world.</p><p>Whether you're a seasoned pirate or new to the Straw Hat crew, 'One Piece' offers an unforgettable adventure that spans the high seas and beyond.</p>"
-  },
-  {
-    "id": 35,
-    "name_category": "Anime Culture",
-    "title": "Anime and Gaming: Exploring the Crossover Phenomenon",
-    "image": "file:///android_asset/image/aniwave.jpg",
-    "description": "Dive into the exciting crossover phenomenon between anime and gaming, from adaptations to collaborations.",
-    "link": "<p>The worlds of anime and gaming have long been intertwined, giving rise to a thrilling crossover phenomenon. In this article, we dive into the exciting relationship between anime and gaming, exploring adaptations, collaborations, and the impact of gaming culture on the anime industry.</p><p>Discover how beloved gaming franchises like 'Final Fantasy' and 'Persona' have made their mark in the world of anime. We also explore the reverse, with anime inspiring video games and the rise of virtual reality experiences.</p><p>Whether you're a gamer, an anime fan, or simply curious about the convergence of these two dynamic worlds, this article offers a journey through the crossover phenomenon that continues to shape both industries.</p>"
-  }
-  ]
 }
