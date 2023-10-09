@@ -5,17 +5,17 @@
       "interstitial_type": "lap",
       "switch_ads_type": "only_banner",
       "make_app_crash_when_app_not_live_at_play_store": false,
-      "make_app_under_maintenance": false
+      "make_app_under_maintenance": false,
+      "rate_dialog_count" : 99999
     },
     "ad_network": [
       {
-        "name": "off",
+        "name": "fan",
         "value": 1,
-        "min_time": 120,
-        "appId_appKey_publisherId_gameId": "-",
-        "banner": "-",
+        "appId_appKey_publisherId_gameId": "2010332955990006",
+        "banner": "2010332955990006_2010543862635582",
         "mrec": "off",
-        "inter": "-",
+        "inter": "2010332955990006_2010543925968909",
         "native_ad": "-",
         "open_ad": "off",
         "splash_ad": false
