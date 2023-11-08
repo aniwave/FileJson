@@ -24,7 +24,7 @@
     },
     "app_settings": {
         "navigation_mode": "navigation_drawer",
-        "recent_fragment_list_view_mode": "big",
+        "recent_fragment_list_view_mode": "grid",
         "favorite_fragment_list_view_mode": "grid",
         "category_fragment_list_view_mode": "grid",
         "category_activity_list_view_mode": "grid",
