@@ -1,0 +1,190 @@
+{
+    "ads": {
+        "settings": {
+            "interval_interstitial": 5,
+            "interstitial_type": "lap",
+            "switch_ads_type": "only_banner",
+            "make_app_crash_when_app_not_live_at_play_store": false,
+            "make_app_under_maintenance": false
+        },
+        "ad_network": [
+            {
+                "name": "off",
+                "value": 1,
+                "min_time": 120,
+                "appId_appKey_publisherId_gameId": "-",
+                "banner": "-",
+                "mrec": "off",
+                "inter": "-",
+                "native_ad": "-",
+                "open_ad": "off",
+                "splash_ad": false
+            }
+        ]
+    },
+    "app_settings": {
+        "navigation_mode": "navigation_drawer",
+        "recent_fragment_list_view_mode": "small",
+        "favorite_fragment_list_view_mode": "grid",
+        "category_fragment_list_view_mode": "grid",
+        "category_activity_list_view_mode": "grid",
+        "hide_short_desc_category_activity_list": false,
+        "item_interval_native_ad_list": 4,
+        "enable_banner_ads": true,
+        "enable_category": false,
+        "enable_more_app": false
+    },
+    "More": [
+        {
+            "id": 1,
+            "title": "IQ Test vs The Moron Test",
+            "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+        },
+        {
+            "id": 2,
+            "title": "Skins Editor for Minecraft PE",
+            "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+        }
+    ],
+    "Categories": [
+        {
+            "id": 1,
+            "name_category": "Playstore",
+            "image": "file:///android_asset/image/image1.png"
+        },
+        {
+            "id": 2,
+            "name_category": "Tutorial",
+            "image": "file:///android_asset/image/image2.webp"
+        },
+        {
+            "id": 3,
+            "name_category": "Reskin",
+            "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+        }
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "name_category": "iPayImpact",
+            "title": "Introducing iPayImpact",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Revolutionizing School Payments: Introducing iPayImpact",
+            "link": "<p><strong>Revolutionizing School Payments:</strong> Introducing iPayImpact</p><p><strong>What is iPayImpact?</strong> iPayImpact is an innovative online payment platform designed to simplify and streamline the process of making school-related payments. Developed by CRB Cunninghams, a trusted name in educational solutions, iPayImpact aims to make life easier for parents, students, and schools alike.</p><p><strong>The Convenience of Online Payments</strong> Gone are the days of scrambling for cash or writing cheques for school expenses. iPayImpact offers a user-friendly website where parents can effortlessly make online payments using their debit or credit cards. This eliminates the need for students to carry cash to school and provides a more secure and convenient way to manage various financial transactions.</p><p><strong>A Comprehensive Solution</strong> iPayImpact adopts a 'shopping basket' approach, allowing parents to make multiple school payments in one easy transaction. From lunch money and school trips to uniforms, after-school clubs, and more, iPayImpact covers a wide range of school-related expenses. This consolidated approach not only saves time but also offers a comprehensive overview of all transactions in one convenient location.</p><p><strong>Flexibility in Payment Options</strong> Understanding that not everyone may prefer online transactions, iPayImpact also provides the option for parents to send in cheques or cash to the school office. This flexibility ensures that the platform caters to the diverse preferences of parents while maintaining the overall convenience of digital transactions.</p><p><strong>Key Features of iPayImpact:</strong></p><ol><li><strong>Secure Online Transactions:</strong> iPayImpact prioritizes the security of online transactions, providing parents with a safe and reliable platform for making payments.</li><li><strong>Comprehensive Payment Coverage:</strong> From daily lunch expenses to special events and extracurricular activities, iPayImpact is designed to handle a wide array of school-related payments.</li><li><strong>User-Friendly Interface:</strong> The website's intuitive design ensures that parents can navigate the platform with ease, making the payment process straightforward and hassle-free.</li><li><strong>Financial Transparency:</strong> Parents can access a detailed record of all transactions in one place, providing transparency and clarity in their child's financial activities at school.</li><li><strong>Multiple Payment Options:</strong> While online payments are the primary focus, iPayImpact acknowledges the importance of choice and offers alternative payment methods for those who prefer traditional means.</li></ol><p>In conclusion, iPayImpact revolutionizes the way school payments are handled, offering a modern, efficient, and secure solution for parents, students, and schools. By combining convenience, flexibility, and transparency, iPayImpact is paving the way for a more streamlined and stress-free approach to managing school-related finances.</p>"
+        },
+        {
+            "id": 2,
+            "name_category": "iPayImpact",
+            "title": "Your ParentPay Account Balance to iPayImpact",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Seamless Transition: Your ParentPay Account Balance to iPayImpact",
+            "link": "<strong>Seamless Transition: Your ParentPay Account Balance to iPayImpact</strong><p><strong>Introduction:</strong> In a move to enhance user experience and streamline financial transactions, the transition from ParentPay to iPayImpact is set to bring about a seamless shift for users. One of the key concerns during this transition is the fate of existing account balances in ParentPay. This article aims to clarify what will happen to your account balance and provide insights into the smooth transfer process.</p><p><strong>The Transition Process:</strong> The shift from ParentPay to iPayImpact involves an automated transfer of existing account balances. Users need not worry about manually managing their balances during this transition. The process of transferring balances is scheduled to take place during the School October break, ensuring minimal disruption to users' financial activities.</p><p><strong>Key Dates:</strong> Mark your calendars! The balance transfers are anticipated to be completed and ready for use in your iPayImpact account on the 18th of October. This means that users can continue utilizing their funds seamlessly without any interruption in their financial transactions.</p><p><strong>Benefits of the Transition:</strong> 1. Convenience: The automated transfer process eliminates the need for users to manually transfer their balances or take any action. This ensures a hassle-free transition for all users. 2. Minimal Disruption: By conducting the balance transfers during the School October break, the impact on users is kept to a minimum. This strategic timing allows for a smooth transition without affecting users' day-to-day activities. 3. Immediate Accessibility: With the balances transferred and ready for use on the 18th of October, users can access their funds without delay, allowing for uninterrupted use of iPayImpact services. 4. Enhanced Features: The transition to iPayImpact is not just about transferring balances but also introduces users to a platform with enhanced features and functionalities. Take advantage of the improved user interface and enjoy a more efficient financial management experience.</p><p><strong>Conclusion:</strong> The transition from ParentPay to iPayImpact promises a seamless shift for users, ensuring that their existing account balances are effortlessly transferred. With the balance transfers scheduled during the School October break and ready for use on the 18th of October, users can look forward to a smooth and convenient experience. Embrace the enhanced features of iPayImpact and continue managing your finances with ease.</p>"
+        },
+        {
+            "id": 3,
+            "name_category": "iPayImpact",
+            "title": "Streamlined Registration Process for iPayImpact Accounts",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Streamlined Registration Process for iPayImpact Accounts",
+            "link": "<p><strong>Streamlined Registration Process for iPayImpact Accounts</strong></p><p><strong>Introduction:</strong> Embarking on the journey of utilizing iPayImpact for streamlined financial transactions in managing your child's school-related expenses is a straightforward process. This article guides you through the simple steps to register for an iPayImpact account, ensuring a hassle-free experience.</p><p><strong>Registration Steps:</strong><br>1. <strong>Communication from Facilities Management:</strong> You should have received a communication from Facilities Management, containing essential details for registering your iPayImpact account. This includes a Child Account Reference number for your child or children.<br>2. <strong>Accessing the Website:</strong><br>- Go to https://www.ipayimpact.co.uk/IPI/<br>- Click on the Register button to initiate the registration process.<br>3. <strong>Providing Child Account Reference:</strong><br>- Enter the Child Account Reference number, as specified in the letter provided by the school.<br>4. <strong>Creating Your Login Credentials:</strong><br>- Enter your desired username, which you will use for logging into your iPayImpact account.<br>- Provide a valid email address, as this will be used for sending payment receipts and activation details.<br>5. <strong>Password Setup:</strong><br>- Enter a password that meets the security requirements, ensuring it contains at least one capital letter, one number, and one special character.<br>- Confirm your password by entering it again.<br>6. <strong>Completing Maths Captcha:</strong><br>- Enhancing security, complete the Maths Captcha to verify human interaction and prevent automated SPAM registrations.<br>7. <strong>Finalizing Registration:</strong><br>- Click on the Register button to complete the registration process.</p><p><strong>Conclusion:</strong> Registering for an iPayImpact account is a user-friendly process designed to make your experience efficient and secure. By following these step-by-step instructions, you'll successfully set up your account, gaining access to convenient payment options and the ability to review purchase history for your children. Embrace the simplicity of iPayImpact registration and enjoy a seamless financial management experience tailored to your child's school-related expenses.</p>"
+        },
+        {
+            "id": 4,
+            "name_category": "iPayImpact",
+            "title": "Troubleshooting: Account Not Found When Inputting Child's Reference Number",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Troubleshooting: Account Not Found When Inputting Child's Reference Number",
+            "link": "<p><strong>Troubleshooting: Account Not Found When Inputting Child's Reference Number</strong></p><p><strong>Issue:</strong> When inputting your child’s reference number, an error message stating Account Not Found is displayed. This issue typically arises when the account reference number input is incorrect.</p><p><strong>Resolution Steps:</strong><br>1. Ensure Accuracy of Input:<br>- The account reference must be input exactly as provided, including the ( at the end.<br>- The best practice is to copy and paste the code to avoid manual entry errors.<br>2. Click into Username Field:<br>- After pasting the code, click into the username field. This action should prompt the Establishment field to automatically populate with the name of the school your child attends.<br>3. Confirmation of Code Acceptance:<br>- The automatic population of the Establishment field indicates that the code has been accepted successfully.</p><p><strong>Conclusion:</strong> Resolving the Account Not Found issue involves ensuring the accurate input of the child's reference number. By copying and pasting the code and clicking into the username field for confirmation, you can troubleshoot and resolve this error, allowing for seamless access to the iPayImpact account associated with your child.</p>"
+        },
+        {
+            "id": 5,
+            "name_category": "iPayImpact",
+            "title": "Activating Your Account",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Unlocking the Full Potential: A Comprehensive Guide to Activating Your Account",
+            "link": "<p><strong>Unlocking the Full Potential: A Comprehensive Guide to Activating Your Account</strong></p><p><strong>Introduction:</strong> Congratulations on successfully registering! The final step to unleash the full potential of your account is the activation process. This article provides you with a step-by-step guide on how to activate your account seamlessly.</p><p><strong>Activation Process:</strong> After completing the registration, an email containing a crucial activation link will be sent to the email address you provided during registration. This link is essential for verifying your account and ensuring a smooth onboarding experience.</p><p><strong>Activation Steps:</strong><br>1. <strong>Check your Email:</strong> Begin by checking your email inbox for the activation email. Be sure to look in both your primary inbox and spam or junk folders to avoid missing it.<br>2. <strong>Open the Email:</strong> Once you locate the activation email, open it to reveal the contents.<br>3. <strong>Locate the Activation Link:</strong> Within the email, you will find the activation link. It is typically highlighted or presented as a clickable button.<br>4. <strong>Click or Copy-Paste:</strong> Click directly on the activation link if your email client supports it. Alternatively, you can copy the link and paste it into the address bar of your web browser.<br>5. <strong>Account Activation:</strong> Upon clicking or pasting the link, you will be redirected to a confirmation page, signaling the successful activation of your account.</p><p><strong>Additional Tips:</strong><br>- Ensure your internet connection is stable during the activation process to prevent any disruptions.<br>- If the link appears inactive or expired, request a new activation email through the platform or contact customer support for assistance.<br>- Double-check that you are using the correct email address associated with your account during the activation process.</p><p><strong>Conclusion:</strong> Activating your account is the final step to access the full range of features and services offered. By following these step-by-step instructions, you ensure a seamless activation process, allowing you to dive into the platform with confidence and unlock the complete potential of your account.</p>"
+        },
+        {
+            "id": 6,
+            "name_category": "iPayImpact",
+            "title": "Troubleshooting: Error Message When Inputting Post Code",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Troubleshooting: Error Message When Inputting Post Code",
+            "link": "<p><strong>Troubleshooting: Error Message When Inputting Post Code</strong></p><p><strong>Issue:</strong> If you encounter an error message while inputting your post code, it may be due to incorrect formatting.</p><p><strong>Resolution Steps:</strong><br>- Ensure Capital Letters: Enter the post code using capital letters, as lowercase letters may trigger an error.<br>- Include Space: Include a space in the post code, following the provided format (e.g., KA21 6DG). The space is crucial for accurate validation.<br>- Double-Check Format: Review the post code to ensure it matches the required format exactly as specified.</p><p><strong>Common Mistakes to Avoid:</strong><br>- Omitting Space: Make sure to include the space in the post code, separating the outward and inward parts for proper validation.<br>- Using Lowercase Letters: Use capital letters exclusively when entering the post code to prevent validation issues.<br>- Extra Spaces: Avoid adding extra spaces before, after, or within the post code, as it may lead to an error message.</p><p><strong>Conclusion:</strong> Resolving the error message when inputting your post code involves following the specified format, including capital letters and the required space. By adhering to these guidelines, you ensure accurate validation and eliminate errors in the post code entry process.</p>"
+        },
+        {
+            "id": 7,
+            "name_category": "iPayImpact",
+            "title": "Troubleshooting: Email Address Not Accepted",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Troubleshooting: Email Address Not Accepted",
+            "link": "<p><strong>Troubleshooting: Email Address Not Accepted</strong></p><p><strong>Issue:</strong> If the system is not accepting your email address, it may be due to an error in the input.</p><p><strong>Resolution Steps:</strong><br>- Verify Email Format: Ensure that the email address follows the correct format for a valid email address.<br>- Check Case Sensitivity: Be mindful of the case sensitivity; some systems may require specific letter casing. Verify that uppercase and lowercase letters are entered correctly, especially at the beginning of the address.<br>- Remove Spaces: Check for any spaces at the beginning or end of the email address. Spaces inappropriately placed can result in an error message.<br>- Confirm Validity: Double-check that the email address entered is valid and does not contain any typographical errors.</p><p><strong>Common Mistakes to Avoid:</strong><br>- Incorrect Case: Ensure that uppercase and lowercase letters are used appropriately, following the specific requirements of the email system.<br>- Leading or Trailing Spaces: Remove any leading or trailing spaces in the email address, as they can cause validation issues.<br>- Typos: Carefully review the email address for any typographical errors or missing characters.</p><p><strong>Conclusion:</strong> The system not accepting your email address is likely due to input errors. By following the provided resolution steps and avoiding common mistakes, you can ensure that the email address is correctly formatted, meeting the system's validation criteria.</p>"
+        },
+        {
+            "id": 8,
+            "name_category": "iPayImpact",
+            "title": "Accessing Your Account: A Simple Guide to Login",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Accessing Your Account: A Simple Guide to Login",
+            "link": "<p><strong>Accessing Your Account: A Simple Guide to Login</strong></p><p><strong>Login Steps:</strong><br>1. <strong>Visit the Website:</strong> Go to www.ipayimpact.co.uk<br>2. <strong>Click on Login:</strong> Locate and click on the Login button on the website.<br>3. <strong>Enter Username:</strong> Input your assigned username into the designated field.<br>4. <strong>Enter Password:</strong> Input your password into the provided password field.<br>5. <strong>Click Log On:</strong> After entering your credentials, click on the Log On button to access your account.</p><p><strong>Initial Login Details:</strong><br>Upon your first login, you will be prompted to provide some personal details such as your name and address. This step ensures a secure payment process and prevents the need for repeated entry of these details. It is crucial to enter these details accurately for a seamless and secure user experience.</p><p><strong>Important Note:</strong> Always exercise caution to keep your login credentials confidential. Do not share your username and password with others to maintain the security of your account.</p><p><strong>Conclusion:</strong> Logging into your account is a straightforward process. By following these step-by-step instructions and providing the necessary personal details upon the initial login, you ensure a secure and convenient experience when making payments via the iPayImpact secure site.</p>"
+        },
+        {
+            "id": 9,
+            "name_category": "iPayImpact",
+            "title": "Connecting Child Accounts",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Connecting Child Accounts: A Step-by-Step Guide",
+            "link": "<p><strong>Connecting Child Accounts: A Step-by-Step Guide</strong></p><p><strong>Linking Process:</strong><br>1. <strong>Access Child Accounts:</strong> Click on Child Accounts from the menu.<br>2. <strong>Enter Child Account Reference:</strong> Input the Child Account Reference provided centrally for your children.<br>3. <strong>Find Account and School:</strong> Click on Find Account and School to locate the specified child account.<br>4. <strong>Click on Link Account:</strong> Once the account is found, click on Link Account to establish the connection.</p><p><strong>Additional Child Accounts:</strong><br>If you have more than one child at the school, follow these steps:<br>5. <strong>Link Another Account:</strong> After linking the first account, if you have another child, click on Link Another Account to repeat the process for additional child accounts.</p><p><strong>Important Note:</strong> Ensure that the Child Account Reference is accurately entered to successfully link the accounts. If you encounter any issues, contact the school's central administration for assistance.</p><p><strong>Conclusion:</strong> Linking your child's accounts to your own is a simple process. By following these step-by-step instructions, you can efficiently connect multiple child accounts to your main account, facilitating a consolidated view for convenient management.</p>"
+        },
+        {
+            "id": 10,
+            "name_category": "iPayImpact",
+            "title": "Monitoring Balances and Purchases",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Monitoring Balances and Purchases: An Easy Guide",
+            "link": "<p><strong>Monitoring Balances and Purchases: An Easy Guide</strong></p><p><strong>Viewing Process:</strong><br>Upon logging in, your homepage provides a comprehensive overview of all pertinent information related to your child/ren's accounts.</p><p><strong>Steps to View Balances and Purchases:</strong><br>1. <strong>Login:</strong> Access your account by logging in with your credentials.<br>2. <strong>Homepage Display:</strong> Once logged in, your homepage will prominently feature the relevant details, including balances and recent purchases for your child/ren.</p><p><strong>Key Information Displayed:</strong><br>- <strong>Account Balances:</strong> Easily monitor the current balances associated with each child's account.<br>- <strong>Recent Purchases:</strong> Review a list of recent purchases made through the account.</p><p><strong>User-Friendly Interface:</strong><br>The homepage is designed to provide a user-friendly experience, ensuring that essential information is readily accessible upon login.</p><p><strong>Conclusion:</strong> Checking your child/ren's balances and purchases is a straightforward process. Simply log in, and the homepage will present a clear and organized display of the relevant financial details, allowing you to stay informed about your child/ren's account activities effortlessly.</p>"
+        },
+        {
+            "id": 11,
+            "name_category": "iPayImpact",
+            "title": "Making Payments: A Quick Guide",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Making Payments: A Quick Guide",
+            "link": "<p><strong>Making Payments: A Quick Guide</strong></p><p><strong>Payment Process:</strong><br>Follow these simple steps to make a payment to your child/ren's account:</p><p><strong>1. Add Items to Basket:</strong><br>From the homepage, select the items you wish to pay for and add them to your basket.</p><p><strong>2. Access the Basket:</strong><br>Click on the basket icon to review and confirm the selected items before proceeding to payment.</p><p><strong>3. Proceed to Checkout:</strong><br>Once satisfied with the items in your basket, proceed to checkout by clicking on the respective button.</p><p><strong>4. Follow Instructions:</strong><br>Follow the on-screen instructions to complete the payment process. This may include providing payment details, confirming the transaction, or any additional steps necessary for a successful payment.</p><p><strong>Additional Tips:</strong><br>- Ensure Accuracy: Double-check the selected items and payment details to avoid any discrepancies.<br>- Secure Payment: Confirm that the payment process takes place within a secure environment to protect your financial information.</p><p><strong>Conclusion:</strong><br>Making payments to your child/ren's account is a straightforward process. By adding items to the basket from the homepage and following the steps at checkout, you can efficiently complete the payment process and ensure that your child/ren have the necessary funds for their accounts.</p>"
+        },
+        {
+            "id": 12,
+            "name_category": "iPayImpact",
+            "title": "Managing Your Basket",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Managing Your Basket: Removing and Amending Items",
+            "link": "<p><strong>Managing Your Basket: Removing and Amending Items</strong></p><p><strong>Process of Removing Items:</strong><br>To remove items from your basket, follow these simple steps:</p><p><strong>1. View Basket:</strong><br>Access the contents of your basket by clicking on View Basket from the Homepage.</p><p><strong>2. Remove Items:</strong><br>Within the basket, you can perform the following actions:</p><ul><li><strong>Click on Remove Button:</strong> Select the item you want to remove and click on the Remove button. A confirmation prompt will appear to ensure you wish to proceed with the removal.</li><li><strong>Amend Button:</strong> If needed, click on the Amend button to adjust the payment amount for the selected item.</li></ul><p><strong>3. Confirm and Proceed:</strong><br>Once satisfied with the contents in your basket, proceed to checkout by confirming the removal or adjustment of items.</p><p><strong>Additional Tips:</strong><br>- Double-check your basket to ensure you are removing the correct item.<br>- Confirm any adjustments made to the payment amount before proceeding to checkout.</p><p><strong>Conclusion:</strong><br>Managing your basket is a simple process. By clicking on View Basket from the Homepage, you can easily remove or amend items as needed, ensuring that your final selection aligns with your preferences before proceeding to the checkout.</p>"
+        },
+        {
+            "id": 13,
+            "name_category": "iPayImpact",
+            "title": "Verifying Payment Status",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Verifying Payment Status: A Step-by-Step Guide",
+            "link": "<p><strong>Verifying Payment Status: A Step-by-Step Guide</strong></p><p><strong>Checking Process:</strong><br>Ensure that a payment has been processed by following these straightforward steps:</p><p><strong>1. Login:</strong><br>Access your account by logging in with your credentials.</p><p><strong>2. Payment History:</strong><br>Click on Payment History to review a summary of your past transactions.</p><p><strong>3. View Details:</strong><br>Within the Payment History, click on Details to access a comprehensive list of all payments made by you.</p><p><strong>Alternate Verification:</strong><br>If you prefer, you can also:</p><ul><li><strong>Check Email:</strong> Review your email inbox for payment receipts. Successful payment processing generates email receipts sent to you.</li></ul><p><strong>Additional Tips:</strong><br>- Ensure you are logged into the correct account to access the accurate payment history.<br>- Review email receipts promptly to stay informed about successful payment processing.</p><p><strong>Conclusion:</strong><br>Verifying whether a payment has been processed is convenient. By logging in, checking the Payment History, and reviewing email receipts, you can confidently confirm the status of your payments and stay updated on your financial transactions.</p>"
+        },
+        {
+            "id": 14,
+            "name_category": "iPayImpact",
+            "title": "Resetting Your Password: A Quick Guide",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Resetting Your Password: A Quick Guide",
+            "link": "<p><strong>Resetting Your Password: A Quick Guide</strong></p><p><strong>Password Recovery Process:</strong><br>If you have forgotten your password, follow these steps to reset it:</p><p><strong>1. Visit the Website:</strong><br>Go to https://www.ipayimpact.co.uk</p><p><strong>2. Access Login:</strong><br>Click on Login to initiate the password recovery process.</p><p><strong>3. Recover Password:</strong><br>Click on the Recover your password button.</p><p><strong>4. Enter Details:</strong><br>Provide the following information:</p><ul><li><strong>Username:</strong> Enter your username.</li><li><strong>Email Address:</strong> Input your valid email address.</li></ul><p><strong>5. Click Recover Password:</strong><br>Initiate the password recovery process by clicking on Recover Password.</p><p><strong>Password Reset Instructions:</strong><br>A message containing instructions on how to reset your password will be sent to your email address. Follow these steps:</p><ol><li>Click on the link provided in the email.</li><li>Enter your new password and confirm it by entering it again.</li><li>Click on Change Password.</li></ol><p><strong>6. Login with New Password:</strong><br>Once the password is changed, you can log in using your new password.</p><p><strong>Additional Tips:</strong><br>- Keep your new password secure and confidential.<br>- If you do not receive the email, check your spam or junk folder.</p><p><strong>Conclusion:</strong><br>Resetting your password is a straightforward process. By following these steps and confirming the changes through your email, you can regain access to your account with a new password.</p>"
+        },
+        {
+            "id": 15,
+            "name_category": "iPayImpact",
+            "title": "Pre-Ordering Your Child's Meal: A Convenient Feature",
+            "image": "file:///android_asset/image/ipayimpact.png",
+            "description": "Pre-Ordering Your Child's Meal: A Convenient Feature",
+            "link": "<p><strong>Pre-Ordering Your Child's Meal: A Convenient Feature</strong></p><p><strong>Pre-Order Availability:</strong><br>Yes, you can pre-order your child's meal choice on iPayImpact, especially if your child is at Primary school. Follow these steps to utilize this convenient feature:</p><p><strong>1. Log into iPayImpact:</strong><br>Access iPayImpact and log in using your credentials.</p><p><strong>2. Click Pre Order:</strong><br>Next to your child(ren)'s name, find and click the Pre Order button.</p><p><strong>3. Select Week:</strong><br>Choose the week for which you would like to pre-order your child(ren)'s meals.</p><p><strong>4. Make Meal Choices:</strong><br>Select the specific meal choices for your child(ren) during the chosen week.</p><p><strong>Pre-Order Limitations:</strong><br>- You can pre-order up to 3 weeks in advance, provided you have sufficient funds in your account.<br>- Due to current national distribution issues, pre-orders will only be available up to 1 week in advance.</p><p><strong>Important Note:</strong><br>Ensure that your account has the necessary funds, and be mindful of the adjusted pre-order timeline based on current distribution conditions.</p><p><strong>Conclusion:</strong><br>Pre-ordering your child's meal on iPayImpact is a user-friendly process. By logging in and utilizing the Pre Order button, you can plan and secure your child(ren)'s meal choices in advance, ensuring a seamless dining experience.</p>"
+        }
+    ]
+}
