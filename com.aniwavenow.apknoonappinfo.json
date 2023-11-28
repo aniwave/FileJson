@@ -12,7 +12,6 @@
             {
                 "name": "fan",
                 "value": 1,
-                "min_time": 120,
                 "appId_appKey_publisherId_gameId": "1296784284309641",
                 "banner": "1296784284309641_1296784734309596",
                 "mrec": "off",
