@@ -10,7 +10,7 @@
         },
         "ad_network": [
             {
-                "name": "off",
+                "name": "fan",
                 "value": 1,
                 "min_time": 120,
                 "appId_appKey_publisherId_gameId": "1371906583717216",
