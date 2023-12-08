@@ -7,7 +7,7 @@
         },
         "ad_network": [
             {
-                "name": "off",
+                "name": "fan",
                 "appId_appKey_publisherId_gameId": "1296784284309641",
                 "banner": "1296784284309641_1303079240346812",
                 "inter": "1296784284309641_1296784784309591"
