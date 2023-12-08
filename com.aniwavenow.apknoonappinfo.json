@@ -8,11 +8,11 @@
 
     "ad_network": [
       {
-        "name": "fan",
+        "name": "admob",
 
-        "appId_appKey_publisherId_gameId": "1296784284309641",
-        "banner": "1296784284309641_1303079240346812",
-        "inter": "1296784284309641_1296784784309591"
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3940256099942544~3347511713",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "inter": "ca-app-pub-3940256099942544/1033173712"
       }
     ]
   }
