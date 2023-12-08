@@ -1,19 +1,17 @@
 {
-  "ads": {
-    "settings": {
-      "start_interval_interstitial_in_second": 30,
-      "interval_interstitial_in_second": 120,
-      "app_must_live_at_play_store": false
-    },
-
-    "ad_network": [
-      {
-        "name": "admob",
-
-        "appId_appKey_publisherId_gameId": "ca-app-pub-3940256099942544~3347511713",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "inter": "ca-app-pub-3940256099942544/1033173712"
-      }
-    ]
-  }
+    "ads": {
+        "settings": {
+            "start_interval_interstitial_in_second": 30,
+            "interval_interstitial_in_second": 120,
+            "app_must_live_at_play_store": true
+        },
+        "ad_network": [
+            {
+                "name": "off",
+                "appId_appKey_publisherId_gameId": "1296784284309641",
+                "banner": "1296784284309641_1303079240346812",
+                "inter": "1296784284309641_1296784784309591"
+            }
+        ]
+    }
 }
