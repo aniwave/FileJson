@@ -1,13 +1,13 @@
 {
     "ads": {
         "settings": {
-            "start_interval_interstitial_in_second": 120,
-            "interval_interstitial_in_second": 240,
+            "start_interval_interstitial_in_second": 60,
+            "interval_interstitial_in_second": 120,
             "app_must_live_at_play_store": true
         },
         "ad_network": [
             {
-                "name": "off",
+                "name": "fan",
                 "appId_appKey_publisherId_gameId": "2743802799106903",
                 "banner": "2743802799106903_2796162680537581",
                 "inter": "2743802799106903_2773708856116297"
